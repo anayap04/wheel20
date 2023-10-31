@@ -27,7 +27,7 @@ body {
   font-size: 14px !important;
   padding-top: 25vh;
   padding-bottom: 42vh;
-  background-image: url("../src/assets/img/background.png");
+  background-color: rgb(35, 35, 56);
   background-size: 100%;
   width: 100vw;
 }
