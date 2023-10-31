@@ -5,7 +5,7 @@ import PageWheel from "./PageWheel";
 
 const App = () => {
   return (
-    <BrowserRouter basename="/wheel">
+    <BrowserRouter basename="/wheel20">
     <Routes>
       <Route path="/" element={<PageWheel />} />
     </Routes>
