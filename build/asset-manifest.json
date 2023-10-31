@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wheelMe/static/css/main.57401337.css",
+    "main.js": "/wheelMe/static/js/main.27f33dbb.js",
+    "static/js/787.4b34cca3.chunk.js": "/wheelMe/static/js/787.4b34cca3.chunk.js",
+    "static/media/logo_blc.png": "/wheelMe/static/media/logo_blc.a35eae850f6cdfc2c74c.png",
+    "static/media/background.png": "/wheelMe/static/media/background.3dec868fd36ccf2008a0.png",
+    "static/media/logoME.png": "/wheelMe/static/media/logoME.8d75ff1abc3f282ed863.png",
+    "index.html": "/wheelMe/index.html",
+    "main.57401337.css.map": "/wheelMe/static/css/main.57401337.css.map",
+    "main.27f33dbb.js.map": "/wheelMe/static/js/main.27f33dbb.js.map",
+    "787.4b34cca3.chunk.js.map": "/wheelMe/static/js/787.4b34cca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57401337.css",
+    "static/js/main.27f33dbb.js"
+  ]
+}
